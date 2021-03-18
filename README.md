@@ -1,4 +1,5 @@
 ## Lease Finder
+### Introduction
 An easy-to-use web app that bridges the gap between students who are trying to sublease and students looking for a temporary place to stay.
 This web app allows landlords to promote their properties and keep their property information up to date.
 Students are able to filter/sort through available listings and see reviews for properties they are interested in.
@@ -6,7 +7,8 @@ Students are able to filter/sort through available listings and see reviews for 
 This project was completed by my team and I for a web app course. 
 This web app was built using Ruby on Rails, and utilized Ruby, JavaScript, ERB, HTML, CSS, and Bootstrap.
 
-### How to Run Web App
+## Quick Start 
+### Instructions
 1. Clone Repository
 2. Enter directory `leaseFinder/`
 3. Run `bundle install` to install any missing gems
