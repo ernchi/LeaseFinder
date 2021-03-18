@@ -4,7 +4,7 @@ An easy-to-use web app that bridges the gap between students who are trying to s
 This web app allows landlords to promote their properties and keep their property information up to date.
 Students are able to filter/sort through available listings and see reviews for properties they are interested in.
 
-This project was completed by my team and I for a web app course. 
+This project was made for a Web Application Design and Development course where I worked on a team of five.
 This web app was built using Ruby on Rails, and utilized Ruby, JavaScript, ERB, HTML, CSS, and Bootstrap.
 
 ## Quick Start 
@@ -16,7 +16,7 @@ This web app was built using Ruby on Rails, and utilized Ruby, JavaScript, ERB, 
 5. Run command `rake db:reset` to get the seed data
 6. Visit `localhost:3000` in Firefox, and you should be on our home page
 
-### How to Execute Test Cases
+### Running Test Cases
 Testing documentation is written in text files in the `leaseFinder/test/` directory
 
 You can also run our unit tests by going to the `leaseFinder` directory and using the command `rails test`
